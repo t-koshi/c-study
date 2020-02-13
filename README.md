@@ -1,6 +1,11 @@
+### ubuntuへログイン
 ```
-$ cd /home
-$ cc -o main main.c
-$ ./main
+$ make ssh
+```
+
+### コンパイル
+```
+$ make
+$ ./hello
 Hello World.
 ```
